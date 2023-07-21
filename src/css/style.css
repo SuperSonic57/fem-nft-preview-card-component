@@ -85,8 +85,14 @@ body {
   line-height: 1.5;
 }
 #component .price {
+  display: flex;
+  gap: 5px;
   color: hsl(178, 100%, 50%);
   font-weight: 600;
+}
+#component .time {
+  display: flex;
+  gap: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */
