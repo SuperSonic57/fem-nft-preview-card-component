@@ -63,7 +63,7 @@ body {
   max-width: 86%;
   background: hsl(216, 50%, 16%);
   border-radius: 15px;
-  font-size: 18px;
+  font-size: 16px;
   color: hsl(215, 51%, 70%);
   font-family: "Outfit", sans-serif;
   font-weight: 300;
@@ -76,7 +76,7 @@ body {
   overflow: hidden;
 }
 #component h1 {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   color: hsl(0, 0%, 100%);
   padding: 25px 0 15px;
   font-weight: 600;
