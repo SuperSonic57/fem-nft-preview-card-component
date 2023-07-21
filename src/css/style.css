@@ -79,6 +79,9 @@ body {
   background: url("../../assets/images/image-equilibrium.jpg");
   background-size: cover;
 }
+#component .component-content .nft-img:hover {
+  cursor: pointer;
+}
 #component .component-content h1 {
   font-size: 1.5em;
   color: hsl(0, 0%, 100%);
