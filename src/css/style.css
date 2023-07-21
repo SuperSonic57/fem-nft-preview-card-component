@@ -87,6 +87,8 @@ body {
 #component .price-and-time {
   display: flex;
   justify-content: space-between;
+  padding: 20px 0;
+  border-bottom: 1px solid #254674;
 }
 #component .price {
   display: flex;
