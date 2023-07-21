@@ -84,6 +84,10 @@ body {
 #component .description {
   line-height: 1.5;
 }
+#component .price-and-time {
+  display: flex;
+  justify-content: space-between;
+}
 #component .price {
   display: flex;
   gap: 5px;
@@ -93,6 +97,7 @@ body {
 #component .time {
   display: flex;
   gap: 5px;
+  width: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
