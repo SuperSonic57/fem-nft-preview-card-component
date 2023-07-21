@@ -52,6 +52,11 @@ img, picture, svg {
   display: block;
 }
 
+body {
+  display: grid;
+  place-items: center;
+}
+
 #component {
   width: 325px;
   max-width: 86%;
