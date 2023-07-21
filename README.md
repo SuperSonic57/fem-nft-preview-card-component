@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/SuperSonic57/FEM_NFTPreviewCardComponent)
-- [Live Site]()
+- [Live Site](https://supersonic57.github.io/FEM_NFTPreviewCardComponent/)
 
 ## My process
 
