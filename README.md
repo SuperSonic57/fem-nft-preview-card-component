@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
+- [Solution](https://github.com/SuperSonic57/FEM_NFTPreviewCardComponent)
 - [Live Site]()
 
 ## My process
