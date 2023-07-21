@@ -65,6 +65,7 @@ body {
   border-radius: 15px;
   font-size: 18px;
   color: hsl(215, 51%, 70%);
+  font-family: "Outfit", sans-serif;
 }
 #component .component-content {
   padding: 25px;
