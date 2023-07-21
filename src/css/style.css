@@ -116,5 +116,8 @@ body {
 #component .creator a {
   color: hsl(0, 0%, 100%);
 }
+#component .creator a:hover {
+  color: hsl(178, 100%, 50%);
+}
 
 /*# sourceMappingURL=style.css.map */
