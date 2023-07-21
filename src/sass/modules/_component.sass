@@ -13,42 +13,45 @@
 	box-shadow: 0px 0px 75px darken($clr-very-dark-blue-main-bg, 10%)
 	.component-content
 		padding: 25px
-	.nft-img
-		border-radius: 10px
-		overflow: hidden
-	h1
-		font-size: 1.5em
-		color: $clr-white
-		padding: 25px 0 15px
-		font-weight: $fw-semibold
-		a:hover
-			color: $clr-cyan
-	.description
-		line-height: 1.5
-	.price-and-time
-		display: flex
-		justify-content: space-between
-		padding: 20px 0
-		border-bottom: 1px solid darken($clr-soft-blue, 40%)
-	.price
-		display: flex
-		gap: 5px
-		color: $clr-cyan
-		font-weight: $fw-semibold
-	.time
-		display: flex
-		gap: 5px
-		width: 100px
-	.creator
-		display: flex
-		align-items: center
-		gap: 15px
-		padding-top: 15px
-		img
-			width: 35px
-			border: 1px solid $clr-white
-			border-radius: 50%
-		a
+		.nft-img
+			border-radius: 10px
+			width: 275px
+			height: 275px
+			background: url("../../assets/images/image-equilibrium.jpg")
+			background-size: cover
+		h1
+			font-size: 1.5em
 			color: $clr-white
-			&:hover
+			padding: 25px 0 15px
+			font-weight: $fw-semibold
+			a:hover
 				color: $clr-cyan
+		.description
+			line-height: 1.5
+		.price-and-time
+			display: flex
+			justify-content: space-between
+			padding: 20px 0
+			border-bottom: 1px solid darken($clr-soft-blue, 40%)
+		.price
+			display: flex
+			gap: 5px
+			color: $clr-cyan
+			font-weight: $fw-semibold
+		.time
+			display: flex
+			gap: 5px
+			width: 100px
+		.creator
+			display: flex
+			align-items: center
+			gap: 15px
+			padding-top: 15px
+			img
+				width: 35px
+				border: 1px solid $clr-white
+				border-radius: 50%
+			a
+				color: $clr-white
+				&:hover
+					color: $clr-cyan

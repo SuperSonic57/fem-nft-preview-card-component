@@ -72,54 +72,57 @@ body {
 #component .component-content {
   padding: 25px;
 }
-#component .nft-img {
+#component .component-content .nft-img {
   border-radius: 10px;
-  overflow: hidden;
+  width: 275px;
+  height: 275px;
+  background: url("../../assets/images/image-equilibrium.jpg");
+  background-size: cover;
 }
-#component h1 {
+#component .component-content h1 {
   font-size: 1.5em;
   color: hsl(0, 0%, 100%);
   padding: 25px 0 15px;
   font-weight: 600;
 }
-#component h1 a:hover {
+#component .component-content h1 a:hover {
   color: hsl(178, 100%, 50%);
 }
-#component .description {
+#component .component-content .description {
   line-height: 1.5;
 }
-#component .price-and-time {
+#component .component-content .price-and-time {
   display: flex;
   justify-content: space-between;
   padding: 20px 0;
   border-bottom: 1px solid #254674;
 }
-#component .price {
+#component .component-content .price {
   display: flex;
   gap: 5px;
   color: hsl(178, 100%, 50%);
   font-weight: 600;
 }
-#component .time {
+#component .component-content .time {
   display: flex;
   gap: 5px;
   width: 100px;
 }
-#component .creator {
+#component .component-content .creator {
   display: flex;
   align-items: center;
   gap: 15px;
   padding-top: 15px;
 }
-#component .creator img {
+#component .component-content .creator img {
   width: 35px;
   border: 1px solid hsl(0, 0%, 100%);
   border-radius: 50%;
 }
-#component .creator a {
+#component .component-content .creator a {
   color: hsl(0, 0%, 100%);
 }
-#component .creator a:hover {
+#component .component-content .creator a:hover {
   color: hsl(178, 100%, 50%);
 }
 
