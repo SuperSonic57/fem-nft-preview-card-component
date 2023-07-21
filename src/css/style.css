@@ -101,5 +101,12 @@ body {
   gap: 5px;
   width: 100px;
 }
+#component .creator {
+  display: flex;
+  align-items: center;
+}
+#component .creator img {
+  width: 35px;
+}
 
 /*# sourceMappingURL=style.css.map */
