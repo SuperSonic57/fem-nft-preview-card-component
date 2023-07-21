@@ -82,6 +82,14 @@ body {
 #component .component-content .nft-img:hover {
   cursor: pointer;
 }
+#component .component-content .nft-img:hover::after {
+  content: "";
+  position: absolute;
+  border-radius: 10px;
+  width: 275px;
+  height: 275px;
+  background-color: hsla(178, 100%, 50%, 0.5);
+}
 #component .component-content h1 {
   font-size: 1.5em;
   color: hsl(0, 0%, 100%);

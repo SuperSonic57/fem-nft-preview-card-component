@@ -21,6 +21,13 @@
 			background-size: cover
 			&:hover
 				cursor: pointer
+				&::after
+					content: ""
+					position: absolute
+					border-radius: 10px
+					width: 275px
+					height: 275px
+					background-color: $clr-cyan-transparent
 		h1
 			font-size: 1.5em
 			color: $clr-white
