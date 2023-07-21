@@ -108,6 +108,8 @@ body {
 }
 #component .creator img {
   width: 35px;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
 }
 
 /*# sourceMappingURL=style.css.map */
