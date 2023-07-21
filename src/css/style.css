@@ -67,5 +67,9 @@ body {
 #component .component-content {
   padding: 25px;
 }
+#component .nft-img {
+  border-radius: 10px;
+  overflow: hidden;
+}
 
 /*# sourceMappingURL=style.css.map */
