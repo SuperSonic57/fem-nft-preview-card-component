@@ -82,6 +82,9 @@ body {
   padding: 25px 0 15px;
   font-weight: 600;
 }
+#component h1 a:hover {
+  color: hsl(178, 100%, 50%);
+}
 #component .description {
   line-height: 1.5;
 }
