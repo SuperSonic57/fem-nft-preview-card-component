@@ -66,6 +66,7 @@ body {
   font-size: 18px;
   color: hsl(215, 51%, 70%);
   font-family: "Outfit", sans-serif;
+  font-weight: 300;
 }
 #component .component-content {
   padding: 25px;
@@ -78,6 +79,7 @@ body {
   font-size: 1.5rem;
   color: hsl(0, 0%, 100%);
   padding: 25px 0 15px;
+  font-weight: 600;
 }
 
 /*# sourceMappingURL=style.css.map */
