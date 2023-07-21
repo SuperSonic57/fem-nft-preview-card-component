@@ -73,5 +73,10 @@ body {
   border-radius: 10px;
   overflow: hidden;
 }
+#component h1 {
+  font-size: 1.5rem;
+  color: hsl(0, 0%, 100%);
+  padding: 25px 0 15px;
+}
 
 /*# sourceMappingURL=style.css.map */
