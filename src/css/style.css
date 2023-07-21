@@ -76,6 +76,9 @@ body {
   border-radius: 10px;
   overflow: hidden;
 }
+#component .nft-img:hover {
+  cursor: pointer;
+}
 #component h1 {
   font-size: 1.5em;
   color: hsl(0, 0%, 100%);
