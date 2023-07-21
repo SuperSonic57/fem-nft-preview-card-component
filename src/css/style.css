@@ -61,6 +61,7 @@ body {
   width: 325px;
   max-width: 86%;
   background: hsl(216, 50%, 16%);
+  border-radius: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
