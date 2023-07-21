@@ -59,6 +59,7 @@ body {
 
 #component {
   width: 325px;
+  height: 540px;
   max-width: 86%;
   background: hsl(216, 50%, 16%);
   border-radius: 15px;
